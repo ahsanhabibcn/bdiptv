@@ -1,9 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Makkah Live" tvg-logo="https://makkahlive.net/images/makkah-live-1.jpg" ,Makkah Live
 http://hitectv.live/hls/stream33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV HD" tvg-logo="http://livetv.com.bd/wp-content/uploads/2019/12/RTV.png" ,RTV HD
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/31.jpg" ,Gazi TV
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/31.jpg" ,ATN Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x18751" ,Independent TV
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/31.jpg" ,ATN Bangla
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Banglavision TV" tvg-logo="http://roarmediazone.com/tv/weblogo/120.jpg" ,Banglavision TV
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/3.m3u8
