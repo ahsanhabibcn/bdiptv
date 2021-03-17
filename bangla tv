@@ -15,3 +15,5 @@ http://otv.ftpbd.net/streams/127/index.m3u8
 http://tvserver3.roarzone.info:25461/live/free/roarzone/102.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" ,T Sports
 http://43.251.86.6:8080/hls/channel_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Legend Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Road_Safety_World_Series_logo.jpg/220px-Road_Safety_World_Series_logo.jpg" ,Legend Cup
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
