@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Makka Live" tvg-logo="https://makkahlive.net/images/makkah-live-1.jpg" ,Makka Live
+https://makkahlive.net/images/makkah-live-1.jpg
 #EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/31.jpg" ,Gazi TV
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/31.jpg" ,ATN Bangla
